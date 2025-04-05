@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 
-I am a passionate and detail-oriented Data Analyst with a strong academic foundation in **Computer Science, Statistics, and Mathematics**. After graduating in December 2021, I dedicated time to civil services preparation, further enhancing my analytical thinking. I recently completed a **Data Analyst Internship at Unified Mentor**, where I worked on real-time business problems.
+I am a passionate and detail-oriented Data Analyst with a strong academic foundation in **Computer Science, Statistics, and Mathematics**. After graduating, I dedicated time to civil services preparation, further enhancing my analytical thinking. I recently completed a **Data Analyst Internship at Unified Mentor**, where I worked on real-time business problems.
 
 ---
 
