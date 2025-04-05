@@ -1,6 +1,6 @@
 # Ujwala Tejaswani Dhanenkula
 
-🎯 *Data Analyst | Skilled in Python, SQL, Power BI, Tableau & Excel | Turning Data into Decisions*
+*Data Analyst | Skilled in Python, SQL, Power BI, Tableau & Excel | Turning Data into Decisions*
 
 ---
 
